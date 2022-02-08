@@ -1,0 +1,108 @@
+/*GENERAL CONFIG*/
+html,body{height: 100%;scroll-behavior: smooth;}
+.block{min-height: 100%;padding-top: 94px;}
+.primary-color{background-color: #835ca6;}
+.secondary-color:hover{background-color: #5b4172;}
+.standard-title{font-size: 2rem;text-transform: uppercase;}
+.standard-title:after{content: '';display: block;border: 1px solid #835ca6;;
+width: 100px;margin: 15px auto;}
+.standard-text{font-size: 1.2rem;line-height: 1.8rem;}
+.row{margin-bottom: 0;}
+.btn, .btn-large, .btn-small{background-color: #835ca6;}
+
+/*HEADER SECTION - MENU*/
+.logo-img{width: 100px;margin-top: 15px;}
+.logo-txt{margin: 0;font-size: 0;}
+.navbar{background-color: transparent;transition: background 0.5s linear;}
+.navbar li a:hover{color: #835ca6;background-color: transparent;}
+.sidenav{background-image: url(../img/texture2.png);}
+nav {height: 94px;line-height: 94px;}
+nav.nav-extended .nav-wrapper {min-height: 94px;}
+nav i,
+nav [class^="mdi-"], nav [class*="mdi-"],
+nav i.material-icons, nav a.sidenav-trigger i {height: 94px;line-height: 94px;}
+.navbar-fixed {position: absolute;height: 94px;}
+
+/*HOME SECTION - BANNER*/
+.home{animation: mudarbg 20s infinite;background-image: url(../img/bg1.jpg);
+background-repeat: no-repeat;background-size: cover;}
+.banner h2{font-size: 3rem;text-transform: uppercase;font-weight: 900;}
+.btn-contact{background-color: #fff;}
+.btn-contact:hover{background-color: #c2c2c2;}
+
+/*ABOUT SECTION*/
+.about{background-image: url(../img/texture1.png);}
+.about p{text-align: justify;}
+.nav-color{background-color: rgba(0,0,0,0.7);
+transition: background 0.5s linear;}
+.carousel img{border-radius: 10px;}
+
+/*SECTIONS*/
+.mvv{margin-top: 35px;}
+.mvv .item{padding: 20px;}
+.mvv .icon{color: #fff;}
+
+/*PACKAGES SECTION*/
+.trips{background-image: url(../img/texture2.png);}
+.btn-date{margin: 25px auto;}
+
+/*SCHEDULE SECTION*/
+.tabs{background-color: #222;}
+.tabs .tab a{color: #fff;}
+.tabs .tab a:hover,.tabs .tab a.active{color: #835ca6;}
+.tabs .indicator{background-color: #835ca6;}
+
+/*FRANCHISES SECTION*/
+.units{background-image: url(../img/bg-units.jpg);background-size: cover;
+background-repeat: no-repeat; background-attachment: fixed;}
+.units p{line-height: 1.8rem;}
+
+/*CONTACT SECTION*/
+.contact{background-image: url(../img/texture1.png);padding: 20px;}
+.contact .mapa iframe{width: 100%;min-height: 500px;}
+.contact .redes-sociais{background-image: url(../img/texture2.png);
+padding: 30px;width: 100%;min-height: 500px;}
+.contact h5{font-size: 1.2rem;text-transform: uppercase;font-weight: 900;}
+.contact p{font-size: 1rem;line-height: 1.8rem;}
+.contact .fale-conosco{background-color: #fff;width: 100%;min-height: 500px;
+padding: 15px;}
+
+/*STATEMENTS SECTION*/
+.statements{padding: 20px;}
+.statements h2:after{border: 1px solid #fff;}
+.statements img{width: 100px;}
+
+/*FOOTER SECTION*/
+.footer{background-image: url(../img/bg-footer.jpg);background-size: cover;
+background-attachment: fixed;background-repeat: no-repeat;padding: 30px;}
+.footer img{width: 100px;}
+.footer p{font-size: 1.2rem;color: #fff;}
+
+/*ANIMATION - BANNER*/
+@keyframes mudarbg{
+	40%{background-image: url(../img/bg2.jpg);}
+	80%{background-image: url(../img/bg3.jpg);}
+	100%{background-image: url(../img/bg1.jpg);}
+}
+
+/*BREAK POINTS*/
+/*SMALL DEVICES - SMARTPHONES*/
+@media only screen and (max-width: 590px) {
+.card-image-horizontal{display: none;}
+}
+
+/*MEDIUM DEVICES - TABLETS*/
+@media only screen and (min-width: 601px) {
+.banner{padding-top: 3.5rem;}
+.banner h2{font-size: 3.5rem;}
+.banner p{font-size: 1.2rem;}
+.container{width: 85%;}
+}
+
+/*LARGE DEVICES - DESKTOP*/
+@media only screen and (min-width: 993px) {
+.banner{padding-top: 4.5rem;}
+.banner h2{font-size: 4.5rem;}
+.banner p{font-size: 1.3rem;}
+.container{width: 90%;}
+}
