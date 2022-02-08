@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="207.20656mm"
+   height="143.1555mm"
+   viewBox="0 0 207.20655 143.1555"
+   version="1.1"
+   id="svg42"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/user/Downloads/logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs36" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="433.26995"
+     inkscape:cy="274.11685"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1300"
+     inkscape:window-height="704"
+     inkscape:window-x="66"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata39">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(29.311174,-133.26368)">
+    <path
+       d="M 69.163811,133.79947 A 54.469043,54.469043 0 0 1 123.63284,188.26851 54.469043,54.469043 0 1 1 69.163811,133.79947 Z"
+       style="fill:#835ca6;fill-rule:evenodd;stroke:#835ca6;stroke-width:1.07157123;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path2"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 25.789465,202.91929 h 52.713964 l 26.022991,12.86245 -44.535144,8.47449 z"
+       style="fill:none;stroke:#ffffff;stroke-width:5.3580451;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path4"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 69.492135,157.13584 c 10.328022,0 18.700243,8.3722 18.700243,18.70024 0,10.3282 -8.372221,36.82244 -18.700243,36.82244 -10.328215,0 -18.700224,-26.49424 -18.700224,-36.82244 0,-10.32804 8.372009,-18.70024 18.700224,-18.70024 z m -0.168191,4.70973 c 7.547697,0 13.664486,6.11692 13.664486,13.66467 0,7.54767 -6.116789,13.66445 -13.664486,13.66445 -7.546166,0 -13.664468,-6.11678 -13.664468,-13.66445 0,-7.54775 6.118302,-13.66467 13.664468,-13.66467 z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.67902255;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path6"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 69.387227,162.76153 A 12.675313,12.675313 0 0 1 82.062552,175.43687 12.675313,12.675313 0 1 1 69.387227,162.76153 Z"
+       style="fill:none;stroke:#ffffff;stroke-width:0.53588003;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path8"
+       inkscape:connector-curvature="0" />
+    <text
+       x="-15.336045"
+       y="266.45804"
+       id="text12"
+       style="font-size:22.68275452px;stroke-width:1.89022946">
+      <tspan
+         font-size="22.5000"
+         id="tspan10"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.53016281px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;stroke-width:1.89022946"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke:#ffffff;stroke-width:1.89022946"
+   id="tspan92">big</tspan>
+travel</tspan>
+    </text>
+  </g>
+</svg>
